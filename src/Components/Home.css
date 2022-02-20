@@ -1,0 +1,32 @@
+.Home{
+    background-image: url(./Imgs/Blue\ gradient.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 1000px; */
+}
+.Main{
+    background-image: url(./Imgs/IKONIKS\ AVATARS\ 2.0.png);
+}
+.Imgs{
+    max-width: 80%;
+    padding-top: 3vh;
+}
+.Btn{
+    
+    width: 400px;
+    margin: auto;
+  /* width: 50%; */
+  padding: 10px;
+
+}
+.BtnDiv{
+    padding: 20px 0px 10px 20px;
+    background-color: #41A1D0;
+    border-radius: 10px;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+a{
+  color: white !important;
+}
